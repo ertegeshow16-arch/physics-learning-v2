@@ -1,0 +1,527 @@
+{
+  "version": 1,
+  "volumes": [
+    {
+      "number": 1,
+      "title": "Mechanics, Waves, Thermodynamics",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Units, Measurement, and Vectors",
+          "topics": [
+            { "number": "1.1", "title": "Physical Quantities and SI Units" },
+            { "number": "1.2", "title": "Unit Conversion and Dimensional Analysis" },
+            { "number": "1.3", "title": "Significant Figures and Uncertainty" },
+            { "number": "1.4", "title": "Scalars vs Vectors" },
+            { "number": "1.5", "title": "Vector Addition and Subtraction" },
+            { "number": "1.6", "title": "Vector Components and Unit Vectors" },
+            { "number": "1.7", "title": "Dot Product and Cross Product" }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Motion in One Dimension",
+          "topics": [
+            { "number": "2.1", "title": "Position, Displacement, and Distance" },
+            { "number": "2.2", "title": "Average and Instantaneous Velocity" },
+            { "number": "2.3", "title": "Average and Instantaneous Acceleration" },
+            { "number": "2.4", "title": "Motion with Constant Acceleration" },
+            { "number": "2.5", "title": "Free Fall" },
+            { "number": "2.6", "title": "Velocity and Position from Acceleration (Integration)" }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Motion in Two and Three Dimensions",
+          "topics": [
+            { "number": "3.1", "title": "Position and Velocity Vectors in 2D/3D" },
+            { "number": "3.2", "title": "Acceleration Vector" },
+            { "number": "3.3", "title": "Projectile Motion" },
+            { "number": "3.4", "title": "Uniform Circular Motion" },
+            { "number": "3.5", "title": "Tangential and Radial Acceleration" },
+            { "number": "3.6", "title": "Relative Motion" }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Newton's Laws of Motion",
+          "topics": [
+            { "number": "4.1", "title": "Concept of Force" },
+            { "number": "4.2", "title": "Newton's First Law and Inertia" },
+            { "number": "4.3", "title": "Newton's Second Law (F = ma)" },
+            { "number": "4.4", "title": "Mass vs Weight" },
+            { "number": "4.5", "title": "Newton's Third Law" },
+            { "number": "4.6", "title": "Free-Body Diagrams" }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Applications of Newton's Laws",
+          "topics": [
+            { "number": "5.1", "title": "Equilibrium of a Particle" },
+            { "number": "5.2", "title": "Dynamics of a Particle" },
+            { "number": "5.3", "title": "Static and Kinetic Friction" },
+            { "number": "5.4", "title": "Drag Forces and Terminal Velocity" },
+            { "number": "5.5", "title": "Dynamics of Circular Motion" },
+            { "number": "5.6", "title": "Fundamental Forces of Nature" }
+          ]
+        },
+        {
+          "number": 6,
+          "title": "Work and Kinetic Energy",
+          "topics": [
+            { "number": "6.1", "title": "Work Done by a Constant Force" },
+            { "number": "6.2", "title": "Work Done by a Variable Force" },
+            { "number": "6.3", "title": "Kinetic Energy and the Work-Energy Theorem" },
+            { "number": "6.4", "title": "Power" }
+          ]
+        },
+        {
+          "number": 7,
+          "title": "Potential Energy and Conservation of Energy",
+          "topics": [
+            { "number": "7.1", "title": "Gravitational Potential Energy" },
+            { "number": "7.2", "title": "Elastic Potential Energy" },
+            { "number": "7.3", "title": "Conservative and Nonconservative Forces" },
+            { "number": "7.4", "title": "Conservation of Mechanical Energy" },
+            { "number": "7.5", "title": "Force from Potential Energy" },
+            { "number": "7.6", "title": "Energy Diagrams" }
+          ]
+        },
+        {
+          "number": 8,
+          "title": "Linear Momentum, Impulse, and Collisions",
+          "topics": [
+            { "number": "8.1", "title": "Linear Momentum and Impulse" },
+            { "number": "8.2", "title": "Conservation of Momentum" },
+            { "number": "8.3", "title": "Elastic Collisions" },
+            { "number": "8.4", "title": "Inelastic Collisions" },
+            { "number": "8.5", "title": "Collisions in Two Dimensions" }
+          ]
+        },
+        {
+          "number": 9,
+          "title": "Center of Mass and Systems of Particles",
+          "topics": [
+            { "number": "9.1", "title": "Center of Mass: Discrete and Continuous" },
+            { "number": "9.2", "title": "Motion of the Center of Mass" },
+            { "number": "9.3", "title": "Systems with Variable Mass" },
+            { "number": "9.4", "title": "Rocket Propulsion" }
+          ]
+        },
+        {
+          "number": 10,
+          "title": "Rotational Motion and Angular Kinematics",
+          "topics": [
+            { "number": "10.1", "title": "Angular Position, Velocity, Acceleration" },
+            { "number": "10.2", "title": "Rotation with Constant Angular Acceleration" },
+            { "number": "10.3", "title": "Relating Linear and Angular Quantities" },
+            { "number": "10.4", "title": "Kinetic Energy of Rotation" },
+            { "number": "10.5", "title": "Moment of Inertia" },
+            { "number": "10.6", "title": "Parallel-Axis Theorem" }
+          ]
+        },
+        {
+          "number": 11,
+          "title": "Rotational Dynamics, Torque, and Angular Momentum",
+          "topics": [
+            { "number": "11.1", "title": "Torque" },
+            { "number": "11.2", "title": "Newton's Second Law for Rotation" },
+            { "number": "11.3", "title": "Work and Power in Rotational Motion" },
+            { "number": "11.4", "title": "Rolling Motion" },
+            { "number": "11.5", "title": "Angular Momentum" },
+            { "number": "11.6", "title": "Conservation of Angular Momentum" },
+            { "number": "11.7", "title": "Gyroscopes and Precession" }
+          ]
+        },
+        {
+          "number": 12,
+          "title": "Static Equilibrium and Elasticity",
+          "topics": [
+            { "number": "12.1", "title": "Conditions for Equilibrium" },
+            { "number": "12.2", "title": "Center of Gravity" },
+            { "number": "12.3", "title": "Solving Static Equilibrium Problems" },
+            { "number": "12.4", "title": "Stress, Strain, and Elastic Moduli" }
+          ]
+        },
+        {
+          "number": 13,
+          "title": "Gravitation",
+          "topics": [
+            { "number": "13.1", "title": "Newton's Law of Universal Gravitation" },
+            { "number": "13.2", "title": "Gravitational Field and Acceleration" },
+            { "number": "13.3", "title": "Gravitational Potential Energy" },
+            { "number": "13.4", "title": "Kepler's Laws of Planetary Motion" },
+            { "number": "13.5", "title": "Orbits and Escape Velocity" },
+            { "number": "13.6", "title": "Black Holes (introduction)" }
+          ]
+        },
+        {
+          "number": 14,
+          "title": "Fluid Mechanics",
+          "topics": [
+            { "number": "14.1", "title": "Density and Pressure" },
+            { "number": "14.2", "title": "Pressure in a Fluid (Pascal's Principle)" },
+            { "number": "14.3", "title": "Buoyancy (Archimedes' Principle)" },
+            { "number": "14.4", "title": "Fluid Flow and the Continuity Equation" },
+            { "number": "14.5", "title": "Bernoulli's Equation" },
+            { "number": "14.6", "title": "Viscosity and Turbulence" }
+          ]
+        },
+        {
+          "number": 15,
+          "title": "Oscillations and Simple Harmonic Motion",
+          "topics": [
+            { "number": "15.1", "title": "Simple Harmonic Motion (SHM)" },
+            { "number": "15.2", "title": "Energy in SHM" },
+            { "number": "15.3", "title": "Pendulums (Simple and Physical)" },
+            { "number": "15.4", "title": "Damped Oscillations" },
+            { "number": "15.5", "title": "Driven Oscillations and Resonance" }
+          ]
+        },
+        {
+          "number": 16,
+          "title": "Mechanical Waves",
+          "topics": [
+            { "number": "16.1", "title": "Wave Types and Properties" },
+            { "number": "16.2", "title": "Mathematical Description of a Wave" },
+            { "number": "16.3", "title": "Wave Speed on a String" },
+            { "number": "16.4", "title": "Energy and Power in Waves" },
+            { "number": "16.5", "title": "Wave Interference and Superposition" },
+            { "number": "16.6", "title": "Standing Waves" }
+          ]
+        },
+        {
+          "number": 17,
+          "title": "Sound and Wave Phenomena",
+          "topics": [
+            { "number": "17.1", "title": "Sound Waves: Pressure and Displacement" },
+            { "number": "17.2", "title": "Speed of Sound" },
+            { "number": "17.3", "title": "Sound Intensity and Decibels" },
+            { "number": "17.4", "title": "Standing Sound Waves and Musical Instruments" },
+            { "number": "17.5", "title": "Beats" },
+            { "number": "17.6", "title": "Doppler Effect" },
+            { "number": "17.7", "title": "Shock Waves" }
+          ]
+        },
+        {
+          "number": 18,
+          "title": "Temperature, Heat, and the First Law of Thermodynamics",
+          "topics": [
+            { "number": "18.1", "title": "Temperature and Thermometers" },
+            { "number": "18.2", "title": "Thermal Expansion" },
+            { "number": "18.3", "title": "Heat and Internal Energy" },
+            { "number": "18.4", "title": "Heat Transfer: Conduction, Convection, Radiation" },
+            { "number": "18.5", "title": "Phase Changes and Latent Heat" },
+            { "number": "18.6", "title": "First Law of Thermodynamics" },
+            { "number": "18.7", "title": "Thermodynamic Processes" }
+          ]
+        },
+        {
+          "number": 19,
+          "title": "Kinetic Theory of Gases",
+          "topics": [
+            { "number": "19.1", "title": "The Ideal Gas Law" },
+            { "number": "19.2", "title": "Kinetic Model of Gas Pressure" },
+            { "number": "19.3", "title": "Equipartition of Energy and Heat Capacities" },
+            { "number": "19.4", "title": "Maxwell-Boltzmann Distribution" },
+            { "number": "19.5", "title": "Mean Free Path" }
+          ]
+        },
+        {
+          "number": 20,
+          "title": "Entropy and the Second Law of Thermodynamics",
+          "topics": [
+            { "number": "20.1", "title": "Heat Engines and Efficiency" },
+            { "number": "20.2", "title": "Refrigerators and Heat Pumps" },
+            { "number": "20.3", "title": "Second Law of Thermodynamics" },
+            { "number": "20.4", "title": "Carnot Cycle" },
+            { "number": "20.5", "title": "Entropy and Reversibility" },
+            { "number": "20.6", "title": "Statistical Interpretation of Entropy" }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Electromagnetism, Optics, Modern Physics",
+      "chapters": [
+        {
+          "number": 21,
+          "title": "Electric Charge and Coulomb's Law",
+          "topics": [
+            { "number": "21.1", "title": "Electric Charge: Properties and Conservation" },
+            { "number": "21.2", "title": "Conductors and Insulators" },
+            { "number": "21.3", "title": "Coulomb's Law" },
+            { "number": "21.4", "title": "Superposition of Electric Forces" }
+          ]
+        },
+        {
+          "number": 22,
+          "title": "Electric Fields",
+          "topics": [
+            { "number": "22.1", "title": "Definition of the Electric Field" },
+            { "number": "22.2", "title": "Electric Field of Point Charges" },
+            { "number": "22.3", "title": "Electric Field of Continuous Distributions" },
+            { "number": "22.4", "title": "Field Lines" },
+            { "number": "22.5", "title": "Motion of Charges in Electric Fields" },
+            { "number": "22.6", "title": "Electric Dipoles" }
+          ]
+        },
+        {
+          "number": 23,
+          "title": "Gauss's Law",
+          "topics": [
+            { "number": "23.1", "title": "Electric Flux" },
+            { "number": "23.2", "title": "Gauss's Law" },
+            { "number": "23.3", "title": "Applications: Symmetric Charge Distributions" },
+            { "number": "23.4", "title": "Conductors in Electrostatic Equilibrium" }
+          ]
+        },
+        {
+          "number": 24,
+          "title": "Electric Potential",
+          "topics": [
+            { "number": "24.1", "title": "Electric Potential Energy" },
+            { "number": "24.2", "title": "Electric Potential and Voltage" },
+            { "number": "24.3", "title": "Calculating Potential from Field" },
+            { "number": "24.4", "title": "Equipotential Surfaces" },
+            { "number": "24.5", "title": "Potential of Charge Distributions" }
+          ]
+        },
+        {
+          "number": 25,
+          "title": "Capacitance and Dielectrics",
+          "topics": [
+            { "number": "25.1", "title": "Capacitors and Capacitance" },
+            { "number": "25.2", "title": "Capacitors in Series and Parallel" },
+            { "number": "25.3", "title": "Energy Stored in a Capacitor" },
+            { "number": "25.4", "title": "Dielectrics" },
+            { "number": "25.5", "title": "Molecular Model of Dielectrics" }
+          ]
+        },
+        {
+          "number": 26,
+          "title": "Current, Resistance, and DC Circuits",
+          "topics": [
+            { "number": "26.1", "title": "Electric Current" },
+            { "number": "26.2", "title": "Resistance and Ohm's Law" },
+            { "number": "26.3", "title": "Resistivity and Conductivity" },
+            { "number": "26.4", "title": "Electromotive Force (EMF)" },
+            { "number": "26.5", "title": "Energy and Power in Circuits" },
+            { "number": "26.6", "title": "Resistors in Series and Parallel" },
+            { "number": "26.7", "title": "Kirchhoff's Rules" },
+            { "number": "26.8", "title": "RC Circuits" }
+          ]
+        },
+        {
+          "number": 27,
+          "title": "Magnetic Fields and Forces",
+          "topics": [
+            { "number": "27.1", "title": "Magnetic Field" },
+            { "number": "27.2", "title": "Magnetic Force on a Moving Charge" },
+            { "number": "27.3", "title": "Motion of Charged Particles in Magnetic Fields" },
+            { "number": "27.4", "title": "Magnetic Force on a Current-Carrying Wire" },
+            { "number": "27.5", "title": "Torque on a Current Loop" },
+            { "number": "27.6", "title": "Hall Effect" }
+          ]
+        },
+        {
+          "number": 28,
+          "title": "Sources of Magnetic Field",
+          "topics": [
+            { "number": "28.1", "title": "Magnetic Field of a Moving Charge" },
+            { "number": "28.2", "title": "Biot-Savart Law" },
+            { "number": "28.3", "title": "Magnetic Field of a Long Wire" },
+            { "number": "28.4", "title": "Force Between Parallel Wires" },
+            { "number": "28.5", "title": "Ampère's Law" },
+            { "number": "28.6", "title": "Solenoids and Toroids" },
+            { "number": "28.7", "title": "Magnetic Materials" }
+          ]
+        },
+        {
+          "number": 29,
+          "title": "Electromagnetic Induction",
+          "topics": [
+            { "number": "29.1", "title": "Faraday's Law of Induction" },
+            { "number": "29.2", "title": "Lenz's Law" },
+            { "number": "29.3", "title": "Motional EMF" },
+            { "number": "29.4", "title": "Induced Electric Fields" },
+            { "number": "29.5", "title": "Eddy Currents" },
+            { "number": "29.6", "title": "Maxwell's Displacement Current" }
+          ]
+        },
+        {
+          "number": 30,
+          "title": "Inductance",
+          "topics": [
+            { "number": "30.1", "title": "Mutual Inductance" },
+            { "number": "30.2", "title": "Self-Inductance" },
+            { "number": "30.3", "title": "Energy in a Magnetic Field" },
+            { "number": "30.4", "title": "RL Circuits" },
+            { "number": "30.5", "title": "LC Oscillations" },
+            { "number": "30.6", "title": "RLC Circuits" }
+          ]
+        },
+        {
+          "number": 31,
+          "title": "Alternating Current Circuits",
+          "topics": [
+            { "number": "31.1", "title": "AC Sources and Phasors" },
+            { "number": "31.2", "title": "Resistors, Inductors, Capacitors in AC" },
+            { "number": "31.3", "title": "RLC Series Circuit and Impedance" },
+            { "number": "31.4", "title": "Resonance" },
+            { "number": "31.5", "title": "Power in AC Circuits" },
+            { "number": "31.6", "title": "Transformers" }
+          ]
+        },
+        {
+          "number": 32,
+          "title": "Maxwell's Equations and Electromagnetic Waves",
+          "topics": [
+            { "number": "32.1", "title": "Maxwell's Equations Summary" },
+            { "number": "32.2", "title": "Plane Electromagnetic Waves" },
+            { "number": "32.3", "title": "Energy and Momentum in EM Waves (Poynting Vector)" },
+            { "number": "32.4", "title": "Standing EM Waves" },
+            { "number": "32.5", "title": "The Electromagnetic Spectrum" }
+          ]
+        },
+        {
+          "number": 33,
+          "title": "Geometric Optics",
+          "topics": [
+            { "number": "33.1", "title": "Nature and Propagation of Light" },
+            { "number": "33.2", "title": "Reflection and Refraction" },
+            { "number": "33.3", "title": "Total Internal Reflection" },
+            { "number": "33.4", "title": "Dispersion" },
+            { "number": "33.5", "title": "Polarization (overview)" },
+            { "number": "33.6", "title": "Huygens's Principle" }
+          ]
+        },
+        {
+          "number": 34,
+          "title": "Lenses and Optical Instruments",
+          "topics": [
+            { "number": "34.1", "title": "Image Formation by Plane and Spherical Mirrors" },
+            { "number": "34.2", "title": "Image Formation by Refraction" },
+            { "number": "34.3", "title": "Thin Lenses" },
+            { "number": "34.4", "title": "The Eye" },
+            { "number": "34.5", "title": "Magnifiers, Microscopes, Telescopes" },
+            { "number": "34.6", "title": "Cameras" }
+          ]
+        },
+        {
+          "number": 35,
+          "title": "Wave Optics: Interference",
+          "topics": [
+            { "number": "35.1", "title": "Coherent Sources and Interference" },
+            { "number": "35.2", "title": "Two-Source Interference (Young's Experiment)" },
+            { "number": "35.3", "title": "Intensity in Interference Patterns" },
+            { "number": "35.4", "title": "Thin-Film Interference" },
+            { "number": "35.5", "title": "Michelson Interferometer" }
+          ]
+        },
+        {
+          "number": 36,
+          "title": "Wave Optics: Diffraction and Polarization",
+          "topics": [
+            { "number": "36.1", "title": "Single-Slit Diffraction" },
+            { "number": "36.2", "title": "Diffraction Gratings" },
+            { "number": "36.3", "title": "X-Ray Diffraction" },
+            { "number": "36.4", "title": "Circular Apertures and Resolving Power" },
+            { "number": "36.5", "title": "Polarization (detailed)" }
+          ]
+        },
+        {
+          "number": 37,
+          "title": "Special Relativity",
+          "topics": [
+            { "number": "37.1", "title": "Postulates of Special Relativity" },
+            { "number": "37.2", "title": "Time Dilation" },
+            { "number": "37.3", "title": "Length Contraction" },
+            { "number": "37.4", "title": "Lorentz Transformations" },
+            { "number": "37.5", "title": "Relativistic Velocity Addition" },
+            { "number": "37.6", "title": "Relativistic Momentum and Energy" },
+            { "number": "37.7", "title": "Mass-Energy Equivalence (E = mc²)" }
+          ]
+        },
+        {
+          "number": 38,
+          "title": "Photons and the Wave Nature of Matter",
+          "topics": [
+            { "number": "38.1", "title": "Photoelectric Effect" },
+            { "number": "38.2", "title": "Einstein's Photon Theory" },
+            { "number": "38.3", "title": "Compton Scattering" },
+            { "number": "38.4", "title": "Wave-Particle Duality" },
+            { "number": "38.5", "title": "De Broglie Wavelength" },
+            { "number": "38.6", "title": "Heisenberg Uncertainty Principle" }
+          ]
+        },
+        {
+          "number": 39,
+          "title": "Quantum Mechanics: Wave Functions",
+          "topics": [
+            { "number": "39.1", "title": "Wave Functions and Probability" },
+            { "number": "39.2", "title": "Schrödinger Equation (1D)" },
+            { "number": "39.3", "title": "Particle in a Box" },
+            { "number": "39.4", "title": "Potential Wells and Barriers" },
+            { "number": "39.5", "title": "Quantum Tunneling" },
+            { "number": "39.6", "title": "Harmonic Oscillator" }
+          ]
+        },
+        {
+          "number": 40,
+          "title": "Atomic Structure",
+          "topics": [
+            { "number": "40.1", "title": "Bohr Model of the Hydrogen Atom" },
+            { "number": "40.2", "title": "Schrödinger Equation for Hydrogen" },
+            { "number": "40.3", "title": "Quantum Numbers and Orbitals" },
+            { "number": "40.4", "title": "Electron Spin" },
+            { "number": "40.5", "title": "Pauli Exclusion Principle" },
+            { "number": "40.6", "title": "Periodic Table and Multi-Electron Atoms" },
+            { "number": "40.7", "title": "X-Ray Spectra" }
+          ]
+        },
+        {
+          "number": 41,
+          "title": "Molecules and Solids",
+          "topics": [
+            { "number": "41.1", "title": "Types of Molecular Bonds" },
+            { "number": "41.2", "title": "Molecular Spectra" },
+            { "number": "41.3", "title": "Crystalline Solids" },
+            { "number": "41.4", "title": "Band Theory and Conductivity" },
+            { "number": "41.5", "title": "Semiconductors" },
+            { "number": "41.6", "title": "Superconductivity (introduction)" }
+          ]
+        },
+        {
+          "number": 42,
+          "title": "Nuclear Physics",
+          "topics": [
+            { "number": "42.1", "title": "Properties of Nuclei" },
+            { "number": "42.2", "title": "Nuclear Binding Energy" },
+            { "number": "42.3", "title": "Radioactivity and Decay Modes" },
+            { "number": "42.4", "title": "Half-Life and Radioactive Dating" },
+            { "number": "42.5", "title": "Nuclear Reactions" },
+            { "number": "42.6", "title": "Nuclear Fission" },
+            { "number": "42.7", "title": "Nuclear Fusion" },
+            { "number": "42.8", "title": "Biological Effects of Radiation" }
+          ]
+        },
+        {
+          "number": 43,
+          "title": "Particle Physics and Cosmology",
+          "topics": [
+            { "number": "43.1", "title": "Fundamental Particles" },
+            { "number": "43.2", "title": "The Standard Model" },
+            { "number": "43.3", "title": "Particle Accelerators" },
+            { "number": "43.4", "title": "Symmetries and Conservation Laws" },
+            { "number": "43.5", "title": "The Expanding Universe" },
+            { "number": "43.6", "title": "Big Bang and Cosmic Microwave Background" },
+            { "number": "43.7", "title": "Dark Matter and Dark Energy" }
+          ]
+        }
+      ]
+    }
+  ]
+}
